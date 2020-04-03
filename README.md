@@ -1,2 +1,2 @@
 # HabeasData
-Aplication android para el tratamiento de datos Hospital Universitario San Ignacio
+Aplication android para el tratamiento de datos HUSI
